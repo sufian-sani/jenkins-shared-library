@@ -13,7 +13,7 @@
 
   **Name:** Shared <br>
   **Default version:** \<branch name><br>
-  **Project repository:** git@github.com/bongodev/jenkins-shared-library.git <br>
+  **Project repository:** https://github.com/bongodev/jenkins-shared-library.git <br>
 ****
 
 #
